@@ -1,0 +1,301 @@
+This is pTeX, Version 3.141592-p3.1.11 (utf8.euc) (Web2C 7.5.4) (format=platex 2011.7.24)  31 MAR 2015 22:43
+**thesis.tex
+(./thesis.tex
+pLaTeX2e <2006/11/10>+0 (based on LaTeX2e <2003/12/01> patch level 0)
+(./ieicej.cls
+Document Class: ieicej 2010/04/05 v1.6a for Transactions of IEICE
+\@JQ=\dimen118
+\@Q=\dimen119
+\@EM=\dimen120
+\c@@paper=\count81
+LaTeX Font Info:    External font `min9 at8.8711pt' loaded for size
+(Font)              <9> on input line 442.
+\@authorlist=\toks15
+\@authorcnt=\count82
+\@alcnt=\count83
+\p@alcnt=\count84
+\@totalnumber=\count85
+\authornamesep=\dimen121
+\@spcnt=\count86
+\alignorder=\count87
+\totalnumberm@ne=\count88
+\@authorcntp@ne=\count89
+\chk@alcnt=\count90
+\chk@p@alcnt=\count91
+\eabstractbox=\box41
+\ekeywordbox=\box42
+\Pauthorsep=\dimen122
+\abstractbox=\box43
+\keywordbox=\box44
+\Lauthorsep=\dimen123
+\LPauthorsep=\dimen124
+\c@section=\count92
+\c@subsection=\count93
+\c@subsubsection=\count94
+\c@paragraph=\count95
+\c@subparagraph=\count96
+\@hlskip=\skip41
+\verbatimleftmargin=\dimen125
+\verbatimbaselineskip=\dimen126
+\c@figure=\count97
+\c@table=\count98
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\@tempboxb=\box45
+\capwidth=\dimen127
+\ecapwidth=\dimen128
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 2852.
+\bibindent=\dimen129
+\c@profile=\count99
+\mathindent=\dimen130
+\@minsofar=\count100
+\@min=\count101
+\@cite@temp=\count102
+)
+(/Applications/UpTeX.app/teTeX/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+(/Applications/UpTeX.app/teTeX/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/Applications/UpTeX.app/teTeX/share/texmf/tex/latex/graphics/dvipdfmx-contrib-
+latex/graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+
+(/Applications/UpTeX.app/teTeX/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/Applications/UpTeX.app/teTeX/share/texmf-dist/tex/latex/graphics/graphics.cfg
+File: graphics.cfg 2005/02/03 v1.3 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 81.
+ (/Applications/UpTeX.app/teTeX/share/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen131
+\Gin@req@width=\dimen132
+)
+(/Applications/UpTeX.app/teTeX/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/Applications/UpTeX.app/teTeX/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/Applications/UpTeX.app/teTeX/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen133
+))
+(/Applications/UpTeX.app/teTeX/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen134
+)
+(/Applications/UpTeX.app/teTeX/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count103
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count104
+\leftroot@=\count105
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count106
+\DOTSCASE@=\count107
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box46
+\strutbox@=\box47
+\big@size=\dimen135
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count108
+\c@MaxMatrixCols=\count109
+\dotsspace@=\muskip10
+\c@parentequation=\count110
+\dspbrk@lvl=\count111
+\tag@help=\toks18
+\row@=\count112
+\column@=\count113
+\maxfields@=\count114
+\andhelp@=\toks19
+\eqnshift@=\dimen136
+\alignsep@=\dimen137
+\tagshift@=\dimen138
+\tagwidth@=\dimen139
+\totwidth@=\dimen140
+\lineht@=\dimen141
+\@envbody=\toks20
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/Applications/UpTeX.app/teTeX/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+)
+(/Applications/UpTeX.app/teTeX/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+)
+No file thesis.aux.
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    External font `min8 at8.1318pt' loaded for size
+(Font)              <8> on input line 30.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <8> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 30.
+LaTeX Font Info:    External font `goth8 at8.1318pt' loaded for size
+(Font)              <8> on input line 30.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <9> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 37.
+LaTeX Font Info:    External font `goth9 at8.8711pt' loaded for size
+(Font)              <9> on input line 37.
+LaTeX Font Info:    External font `min10 at13.307pt' loaded for size
+(Font)              <12> on input line 44.
+LaTeX Font Info:    External font `min10 at11.089pt' loaded for size
+(Font)              <10.95> on input line 44.
+LaTeX Font Info:    External font `min6 at6.6533pt' loaded for size
+(Font)              <6> on input line 44.
+LaTeX Font Info:    Try loading font information for U+msa on input line 44.
+(/Applications/UpTeX.app/teTeX/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 44.
+
+(/Applications/UpTeX.app/teTeX/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    External font `min10 at9.6104pt' loaded for size
+(Font)              <10> on input line 44.
+LaTeX Font Info:    External font `min7 at7.3926pt' loaded for size
+(Font)              <7> on input line 44.
+LaTeX Font Info:    External font `min5 at5.1748pt' loaded for size
+(Font)              <5> on input line 44.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 46.
+LaTeX Font Info:    External font `goth10 at11.089pt' loaded for size
+(Font)              <10.95> on input line 46.
+
+
+LaTeX Warning: Citation `ta' on page 1 undefined on input line 58.
+
+
+LaTeX Warning: Citation `pta' on page 1 undefined on input line 61.
+
+
+LaTeX Warning: Citation `dpta' on page 1 undefined on input line 69.
+
+
+LaTeX Warning: Citation `dpta' on page 1 undefined on input line 75.
+
+LaTeX Font Info:    External font `min10 at17.742pt' loaded for size
+(Font)              <17.28> on input line 78.
+
+LaTeX Warning: Reference `ieicej@lastpage' on page 1 undefined on input line 78
+.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 78.
+(/Applications/UpTeX.app/teTeX/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 78.
+
+[1
+
+
+]
+\c@teiri=\count115
+File: images/optimal.eps Graphic file (type eps)
+ <images/optimal.eps>
+
+LaTeX Warning: Reference `fg:example21' on page 2 undefined on input line 154.
+
+
+LaTeX Warning: Reference `fg:example21' on page 2 undefined on input line 168.
+
+
+LaTeX Warning: Citation `ta' on page 2 undefined on input line 187.
+
+
+LaTeX Warning: Citation `pta' on page 2 undefined on input line 187.
+
+[2]
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 208.
+
+
+LaTeX Warning: Reference `fg:region' on page 3 undefined on input line 214.
+
+
+LaTeX Warning: Reference `fg:region' on page 3 undefined on input line 229.
+
+
+LaTeX Warning: Reference `fg:region' on page 3 undefined on input line 233.
+
+
+LaTeX Warning: Reference `fg:region' on page 3 undefined on input line 237.
+
+
+Overfull \hbox (11.96007pt too wide) in paragraph at lines 268--269
+[]\JY1/mc/m/n/9 有限状態の遷移システム $\OMS/cmsy/m/n/9 A[] \OT1/cmr/m/n/9 = (\
+OML/cmm/m/it/9 S; s[]; T; cost; reward\OT1/cmr/m/n/9 )$
+ []
+
+
+Overfull \hbox (76.85645pt too wide) in paragraph at lines 285--290
+[]
+ []
+
+[3]
+
+LaTeX Warning: Reference `fg:corner_point' on page 4 undefined on input line 29
+3.
+
+[4
+
+] [5
+
+
+] (./thesis.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1805 strings out of 94681
+ 21393 string characters out of 1174371
+ 83380 words of memory out of 1500000
+ 5088 multiletter control sequences out of 10000+50000
+ 23570 words of font info for 95 fonts, out of 1200000 for 2000
+ 566 hyphenation exceptions out of 8191
+ 27i,12n,22p,352b,488s stack positions out of 5000i,500n,6000p,200000b,10000s
+
+Output written on thesis.dvi (5 pages, 26684 bytes).
